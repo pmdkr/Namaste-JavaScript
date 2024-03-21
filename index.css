@@ -1,3 +1,7 @@
 #header{
-    color:red;
+    color: blue;
+    margin: 4px;
+    padding:4px;
+    text-align: center;
+    justify-content: center;
 }
